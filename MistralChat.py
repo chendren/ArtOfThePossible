@@ -3,7 +3,7 @@ import gradio as gr
 import requests
 
 # Set your Mistral API key
-api_key = "bBAaeJnoTcrCJYnOe3kXJSCxvNUeg00w"
+api_key = "YOUR KEY GOES HERE"
 model = "mistral-large-latest"
 api_url = "https://api.mistral.ai/v1/chat/completions"  # Replace with the actual API endpoint if different
 
